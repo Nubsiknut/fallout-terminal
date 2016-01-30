@@ -21,7 +21,7 @@ window.oncontextmenu = function() {
     "0 0x0000A3 error EFI8 0x0000A3 start memory discovery CPU5 110000x000001 0 1 0 0x0000A3 \n" +
     "0x000000 cell relocation 0 0x0000A3 CPU4 error failed switch CPU5 0x00000000000A7 0x000001A6";*/
 var toType = "Fallout terminal.\n" +
-    "There is more things to come.\n" +
+    "There are more things to come.\n" +
     "It works better with Chrome.\n" +
     "Made by TotomInc.";
 
